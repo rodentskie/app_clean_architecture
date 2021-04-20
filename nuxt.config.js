@@ -53,6 +53,8 @@ export default {
 
   // env variables
   env: {
-    socketUrl: process.env.SOCKET
+    socketUrl: process.env.SOCKET,
+    userName: process.env.USER,
+    pw: process.env.PASS
   }
 };
