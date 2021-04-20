@@ -1,4 +1,4 @@
-# spttms
+# app_clean_architecture
 
 ## Build Setup
 
