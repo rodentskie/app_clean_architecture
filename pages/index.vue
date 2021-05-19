@@ -17,7 +17,7 @@
                 icon="plus"
                 small
                 class="icon"
-              />Add Employee Working CICD!
+              />Add Employee Working CICD x2!
             </b-button>
           </b-col>
 
