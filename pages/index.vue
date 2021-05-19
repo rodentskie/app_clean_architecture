@@ -17,7 +17,7 @@
                 icon="plus"
                 small
                 class="icon"
-              />Add Employee Test
+              />Add Employee
             </b-button>
           </b-col>
 
